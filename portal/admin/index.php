@@ -18,7 +18,7 @@
 							<span class="dash-widget-bg1"><i class="fa fa-bolt" aria-hidden="true"></i></span>
 							<div class="dash-widget-info text-right">
 								<h3><?php echo $row['total']; ?></h3>
-								<span class="widget-title1">Emergency <i class="fa fa-flash" aria-hidden="true"></i></span>
+								<span class="widget-title1">Emergencys <i class="fa fa-flash" aria-hidden="true"></i></span>
 							</div>
                         </div>
                         <?php } ?>
